@@ -8,10 +8,6 @@ Data-Field 20002
 Description:	Non-cancer illness code, self-reported
 Category:	Non-cancer illness code, self-reported <- Medical conditions <- Verbal interview <- UK Biobank Assessment Centre
 
-Data-Field 20002 
-Description:	Non-cancer illness code, self-reported
-Category:	Non-cancer illness code, self-reported <- Medical conditions <- Verbal interview <- UK Biobank Assessment Centre
-
 Data-Field 6159
 Description:	Pain type(s) experienced in last month
 Category:	Pain - Health and medical history - Touchscreen - UK Biobank Assessment Centre
